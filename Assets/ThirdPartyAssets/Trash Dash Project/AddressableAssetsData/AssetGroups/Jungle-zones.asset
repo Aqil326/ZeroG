@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Jungle-zones
+  m_EditorClassIdentifier: 
+  m_GroupName: Jungle-zones
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 12c1a7b53a2563e4b84070bba5e0fd7a
+  m_SerializeEntries:
+  - m_GUID: 28254fd782d927b478f2df322db29925
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/JunglePatch01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a50d51c66d0ae5141b2eeef8f24ea725
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/JunglePatch02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2a86e24d99b3f147b27a98734e78127
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/JunglePatch01(new).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6f697518fcd8334f86eed7f1e3c972e
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/MarsPatch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7743e550c07c8ea4c8eef487139554c3
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/MarsPatch 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31a43c53d625846479741e5e442a61c4
+    m_Address: Assets/Engineering/Themes/Jungle/Jungle/MarsPatch 3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ed8f90286a0b8f544b7151fd46aae7c0, type: 2}
+    - {fileID: 11400000, guid: 52d922669ba349743bcd3dd0b5cce71e, type: 2}
